@@ -10,12 +10,24 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo/vector-icons": "^12.0.0",
     "expo": "~44.0.0",
+    "expo-linear-gradient": "~11.0.3",
+    "expo-notifications": "~0.14.0",
+    "expo-permissions": "~13.1.0",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-loading-placeholder": "^0.0.6",
+    "react-native-paper": "^4.12.0",
+    "react-native-step-indicator": "^1.0.3",
+    "react-native-web": "0.17.1",
+    "react-redux": "^7.2.8",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-form": "^8.3.8",
+    "redux-thunk": "^2.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
